@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+h1 {
+    font-size: larger;
+}
+
+.red {
+    background: red;
+}
+
+.yellowgreen {
+    background: yellowgreen;
+}
+
+.lightgreen {
+    background: lightgreen;
+}
+
+p {
+    padding: 10px;
+    border-radius: 10px;
+}
